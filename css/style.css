@@ -6903,7 +6903,27 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 1, E:/172 Etrain Education/172_Etrain_Education_html/sass/_breadcrumb.scss */
 .breadcrumb_bg {
-  background-image: url("../img/breadcrumb.png");
+  background-image: url("../img/gan.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcrumb_bg_iadeinu {
+  background-image: url("../img/iadeinu.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.breadcrumb_bg_ramah{
+  background-image: url("../img/ramah.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.breadcrumb_bg_familiares{
+  background-image: url("../img/propuestas-familiares.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -6923,7 +6943,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #000;
+  background-color: rgba(0, 219, 117, 1);;
   content: "";
   opacity: 0.8;
   z-index: -1;
