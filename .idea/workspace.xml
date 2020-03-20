@@ -2,240 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c21d3df-a57f-41b1-9bd3-351cb02b811f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/css/normalize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/js/jquery-1.11.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Etrain_Education_DOC/js/jquery.nav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/css/normalize.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/js/jquery-1.11.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/Etrain_Education_DOC/js/jquery.nav.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/blog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/contact_process.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/cource.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/course-details.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/animate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/aos.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/flaticon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/magnific-popup.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/nice-select.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/owl.carousel.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/slick.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/style.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/swiper.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/css/themify-icons.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/debug.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/elements.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/Flaticon.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/Flaticon.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/Flaticon.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/Flaticon.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/themify.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/themify.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/themify.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/fonts/themify.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/about_overlay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/advance_feature_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/advance_feature_img.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/animate_icon/icon_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/animate_icon/icon_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/animate_icon/icon_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/animate_icon/icon_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/animate_icon/icon_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/animate_icon/icon_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/animate_icon/icon_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/animate_icon/icon_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/author/author_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/author/author_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/author/author_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/banner_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/banner_img.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/author.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/blog_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/blog_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/blog_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/blog_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/learn_about_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/single_blog_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/single_blog_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/single_blog_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/single_blog_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/single_blog_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/blog/slide_thumb_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/breadcrumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/client/client_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/client/client_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/comment/comment_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/comment/comment_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/comment/comment_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/cource/cource_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/cource/cource_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/cource/cource_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/a.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/a2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/disabled-check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/disabled-radio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/f1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/f2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/f3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/f4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/f5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/f6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/f7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/f8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/g1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/g2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/g3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/g4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/g5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/g6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/g7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/g8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/primary-check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/primary-radio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/success-check.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/elements/success-radio.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_71.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/gallery_item_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/gallery/service_bg_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/iadeinu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/icon/color_star.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/icon/left.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/icon/play.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/icon/quate.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/icon/right.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/icon/star.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/insta/instagram_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/insta/instagram_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/insta/instagram_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/insta/instagram_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/insta/instagram_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/insta/instagram_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/learning_img.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/learning_img_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/post_9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/post/preview.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/quote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/service_bg_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/single_cource.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/single_page_logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/single_project.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/special_cource_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/special_cource_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/special_cource_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/team/team_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/team/team_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/team/team_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/team/team_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/testimonial_img_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/testimonial_img_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/img/testimonial_img_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/aos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/contact.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/gmaps.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery-1.12.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery-3.3.1.slim.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery.ajaxchimp.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery.counterup.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery.easing.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery.form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery.magnific-popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery.nice-select.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/jquery.validate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/mail-script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/masonry.pkgd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/masonry.pkgd.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/owl.carousel.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/particles.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/popper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/slick.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/swiper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/swiper_custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/js/waypoints.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_about.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_banner.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_blog.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_blog_part.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_breadcrumb.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_button.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_common.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_contact.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_copyright_part.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_cource_details.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_elements.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_extends.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_feature_part.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_gallery_part.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_learning.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_member_counter.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_menu.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_portfolio.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_project_details.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_review.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_single_blog.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_social_connect_part.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_special_cource.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_team.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_testimonial_part.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/_variables.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/sass/style.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/etrain/single-blog.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -304,7 +71,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="propuestas-familiares.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="propuestas-familiares.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/propuestas-familiares.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="466">
@@ -314,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-222">
-              <caret line="48" column="90" lean-forward="true" selection-start-line="48" selection-start-column="90" selection-end-line="48" selection-end-column="111" />
+            <state relative-caret-position="730">
+              <caret line="136" column="59" lean-forward="false" selection-start-line="136" selection-start-column="59" selection-end-line="136" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -367,12 +134,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Areas.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/areas.html" />
         <option value="$PROJECT_DIR$/iadeinu.html" />
         <option value="$PROJECT_DIR$/ramah.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/propuestas-familiares.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -496,18 +263,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584733281007</updated>
-      <workItem from="1584733287459" duration="11964000" />
+      <workItem from="1584733287459" duration="12047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11964000" />
+    <option name="totallyTimeSpent" value="12047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -589,18 +356,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-222">
-          <caret line="48" column="90" lean-forward="true" selection-start-line="48" selection-start-column="90" selection-end-line="48" selection-end-column="111" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/propuestas-familiares.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="466">
           <caret line="76" column="43" lean-forward="false" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="136" column="59" lean-forward="false" selection-start-line="136" selection-start-column="59" selection-end-line="136" selection-end-column="59" />
           <folding />
         </state>
       </provider>
