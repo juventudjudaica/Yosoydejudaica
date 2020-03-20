@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c21d3df-a57f-41b1-9bd3-351cb02b811f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="78" column="187" lean-forward="false" selection-start-line="78" selection-start-column="187" selection-end-line="78" selection-end-column="187" />
+            <state relative-caret-position="494">
+              <caret line="177" column="76" lean-forward="false" selection-start-line="177" selection-start-column="76" selection-end-line="177" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -30,8 +31,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="3224" column="16" lean-forward="false" selection-start-line="3224" selection-start-column="16" selection-end-line="3224" selection-end-column="16" />
+            <state relative-caret-position="352">
+              <caret line="262" column="16" lean-forward="false" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -70,6 +71,7 @@
       <find>.feature_part .single_feature:hover .single_feature_part</find>
       <find>.feature_part .single_feature:hover .single_featu</find>
       <find>single_feature:hover</find>
+      <find>.section_tittle h2</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,12 +145,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584733281007</updated>
-      <workItem from="1584733287459" duration="7732000" />
+      <workItem from="1584733287459" duration="8085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7732000" />
+    <option name="totallyTimeSpent" value="8085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -186,16 +188,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="3224" column="16" lean-forward="false" selection-start-line="3224" selection-start-column="16" selection-end-line="3224" selection-end-column="16" />
+        <state relative-caret-position="352">
+          <caret line="262" column="16" lean-forward="false" selection-start-line="262" selection-start-column="16" selection-end-line="262" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="78" column="187" lean-forward="false" selection-start-line="78" selection-start-column="187" selection-end-line="78" selection-end-column="187" />
+        <state relative-caret-position="494">
+          <caret line="177" column="76" lean-forward="false" selection-start-line="177" selection-start-column="76" selection-end-line="177" selection-end-column="76" />
           <folding />
         </state>
       </provider>
