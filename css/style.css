@@ -276,7 +276,7 @@ a:focus, .button:focus, button:focus, .btn:focus {
   text-align: center;
   width: 80px;
   height: 2px;
-  background-color: #ff663b;
+  background-color: #0ecd64;
 }
 
 @media (max-width: 576px) {
@@ -3212,7 +3212,7 @@ ul {
 
 /* line 145, E:/172 Etrain Education/172_Etrain_Education_html/sass/_feature_part.scss */
 .feature_part .single_feature:hover .single_feature_part {
-  border: 1px solid #ff663b;
+  border: 1px solid #0ecd14;
 }
 
 /* line 148, E:/172 Etrain Education/172_Etrain_Education_html/sass/_feature_part.scss */
@@ -3222,7 +3222,7 @@ ul {
 
 /* line 152, E:/172 Etrain Education/172_Etrain_Education_html/sass/_feature_part.scss */
 .feature_part .single_feature:hover span i {
-  color: #fff;
+  color: #0ecd14;
 }
 
 /* line 159, E:/172 Etrain Education/172_Etrain_Education_html/sass/_feature_part.scss */
