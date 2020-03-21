@@ -571,7 +571,6 @@ ul {
   -o-transition: all .4s ease-in-out;
   -webkit-transition: all .4s ease-in-out;
   transition: all .4s ease-in-out;
-  text-transform: capitalize;
   background-size: 200% auto;
   font-size: 15px;
   font-weight: 500;
@@ -613,7 +612,6 @@ ul {
   background-color: #ff663b;
   padding: 3.5px 21px;
   background: #ff663b;
-  text-transform: capitalize;
   display: inline-block;
   border: 2px solid transparent;
   -webkit-transition: 0.5s;
