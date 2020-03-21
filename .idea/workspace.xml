@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c21d3df-a57f-41b1-9bd3-351cb02b811f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gan/primera-actividad..html" afterPath="$PROJECT_DIR$/gan/primera-actividad..html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,8 +89,10 @@
         <entry file="file://$PROJECT_DIR$/gan/primera-actividad..html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="298">
-              <caret line="88" column="59" lean-forward="false" selection-start-line="88" selection-start-column="55" selection-end-line="88" selection-end-column="59" />
-              <folding />
+              <caret line="116" column="78" lean-forward="false" selection-start-line="116" selection-start-column="78" selection-end-line="116" selection-end-column="78" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,7 +111,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.banner_part</find>
       <find>.banner</find>
       <find>.section_tittle</find>
       <find>.feature_part</find>
@@ -140,6 +140,7 @@
       <find>text-transform: ca</find>
       <find>area</find>
       <find>font</find>
+      <find>se anima</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\nicol\Desktop\etrain\sass</dir>
@@ -309,12 +310,12 @@
       <option name="presentableId" value="Default" />
       <updated>1584733281007</updated>
       <workItem from="1584733287459" duration="12279000" />
-      <workItem from="1584819907286" duration="7329000" />
+      <workItem from="1584819907286" duration="7365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19608000" />
+    <option name="totallyTimeSpent" value="19644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -517,8 +518,10 @@
     <entry file="file://$PROJECT_DIR$/gan/primera-actividad..html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
-          <caret line="88" column="59" lean-forward="false" selection-start-line="88" selection-start-column="55" selection-end-line="88" selection-end-column="59" />
-          <folding />
+          <caret line="116" column="78" lean-forward="false" selection-start-line="116" selection-start-column="78" selection-end-line="116" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
