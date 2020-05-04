@@ -7388,3 +7388,28 @@ a.wrimagecard:hover, .wrimagecard-topimage:hover {
   color: #525c65;
   transition: color 0.3s ease;
 }
+
+.judaica-banner-1{
+  height: 800px; 
+  width: 100%;
+   background-image: url('../img/taller-peulot.jpeg');
+   background-size: contain;
+    background-position: center;
+     background-repeat: no-repeat;
+}
+.judaica-banner-2{
+  height: 800px; 
+  width: 100%;
+   background-image: url('../img/sabado-peulot.jpeg');
+   background-size: contain;
+    background-position: center;
+     background-repeat: no-repeat;
+}
+@media (max-width: 576px) {
+  .judaica-banner-1{
+    height: 500px; 
+  }
+  .judaica-banner-2{
+    height: 500px; 
+  }
+}
